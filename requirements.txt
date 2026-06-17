@@ -5,3 +5,4 @@ pyarrow
 tensorflow
 tensorflow-macos 
 tensorflow-metal
+netron
