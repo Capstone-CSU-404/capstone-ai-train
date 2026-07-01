@@ -6,3 +6,4 @@ tensorflow
 tensorflow-macos 
 tensorflow-metal
 netron
+graphviz
